@@ -1,4 +1,4 @@
-# Project 3.  Monitoring Elon Mask's persona and businesses
+# Monitoring Elon Mask's persona and businesses
 
 ### Introduction
 Elon Musk, the founder of Tesla and SpaceX, has asked his PR office to monitor social media to understand how both, his persona and his business are being perceived on social media. 
